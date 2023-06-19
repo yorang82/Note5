@@ -18,9 +18,9 @@ public class Lab3_3Activity extends AppCompatActivity implements View.OnClickLis
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lab3_3);
 
-        trueBtn=findViewById(R.id.btn_visible_true);
-        targetTxteView=findViewById(R.id.text_visible_target);
-        fasleBtn=findViewById(R.id.btn_visible_false);
+        trueBtn=(Button) findViewById(R.id.btn_visible_true);
+        targetTxteView=(TextView) findViewById(R.id.text_visible_target);
+        fasleBtn=(Button) findViewById(R.id.btn_visible_false);
 
         trueBtn.setOnClickListener(this);
         fasleBtn.setOnClickListener(this);
