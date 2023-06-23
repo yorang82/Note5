@@ -31,8 +31,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/flower"
-        android:maxHeight="100dp"
-        android:maxWidth="100dp"
+        android:maxHeight="250dp"
+        android:maxWidth="250dp"
         android:adjustViewBounds="true"
         android:layout_marginTop="16dp"/>
 
