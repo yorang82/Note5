@@ -9,6 +9,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Note5">
         <activity
+            android:name=".lap4_3Activity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name=".lap4_2"
             android:exported="true">
             <intent-filter>
