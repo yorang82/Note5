@@ -16,3 +16,4 @@ rootProject.name = "Note5"
 include ':app'
 include ':lap2-3'
 include ':part2-4'
+include ':part2-5'
