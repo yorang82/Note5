@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">part2- challenge</string>
+    <string name="title_text">
+        Send and receive SMS from
+                       Messenger
+    </string>
+    <string name="contant_text">
+         Manage all of your conversations in one
+        place and use stickers and chat heads. SMS
+         conversations are displayed separately in
+        Messenger and are only available via a mobile
+        phone. Standard text message charges will be
+        charged.
+    </string>
+    <string name="button_text">OK</string>
+    <string name="set_text">Setting</string>
+</resources>
