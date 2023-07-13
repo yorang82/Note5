@@ -10,6 +10,7 @@
         android:theme="@style/Theme.Note5">
         <activity
             android:name=".challenge_2"
+            android:theme="@style/Theme.Note5"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
